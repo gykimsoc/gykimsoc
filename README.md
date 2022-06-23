@@ -1,8 +1,7 @@
 ### Gayoung Kim 👋
 
-M.A. Sociology
-#political & economic & cultural
-#network #computational social science
+- M.A. Sociology
+- let's learn, practice, and grow
 
 <!--
 **gykimsoc/gykimsoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
